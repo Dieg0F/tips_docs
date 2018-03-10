@@ -1,0 +1,95 @@
+Projeto Recomenda��es
+
+Uma aplica��o mobile e web com a fun��o de ajudar pessoas a encontrar determinados profissionais ou empresas de um setor ou que trabalham em um ramo especifico em uma determinada area. Outra fun��o da aplica��o � ajudar empresas e profissionais se tornem mais faceis de serem encontrados.
+
+Similar ao post de recomenda��es do facebook, o app ter� a op��o do usuario procurar tal profissional ou empresa em certo raio de distancia usando sua localiza��o como referencia. A aplica��o ir� retornar ao usuario uma lista do que procura, podendo ser filtrada por avalia��es de outros usuarios, distancia entre outros. ******
+
+Ap�s o usuario selecionar uma recomenda��o desejada, a aplica��o dever� mostrar ao usuario os dados da empresa/profissional como: Nome, Endere�o, Telefone, Servi�os, Fotos, Mapa de localiza��o*, comentarios e avalia��es de outros usarios.
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+Perfis na aplica��o
+
+Usuario
+
+O usuario ir� realizar o cadastro no app/web usando: Nome, E-mail, CPF, Data de Nascimento, Endere�o, Telefone.
+Poder� usar tbm o Google Plus e Facebook para fazer o cadastro
+
+O login ser� feito atrav�s de e-mail e senha ou Google Plus e Facebook.
+
+Na tela de usuario, o mesmo poder� editar seus dados pessoais, ver ultimas avalia��es feitas e profissionais/empresas as quais o mesmo chegou a solicitar um servi�o.
+
+O mesmo ter� uma nota de avalia��o, a qual ser� feita por empresas ou profissionais que o usuario solicitar.
+
+O usuario tbm poder� divulgar algum servi�o.
+
+----
+
+Empresas
+
+Ser�o cadastradas usando os dados: Nome Fantasia, Raz�o Social, CNPJ, Endere�o, Servi�os prestados. **
+
+As empresas ser�o iguais aos usuarios na parte de login, porem ser� pedido dados a mais como o CNPJ no ato.
+
+Na tela da empresa, a mesma poder� colocar fotos, dados pessoais, uma descri��o da mesma e possivelmente uma lista de servi�os. Tela um mapa com sua localiza��o e uma lista com avaliza��es de usuarios que utilizaram servi�os da mesma.
+
+----
+
+Profissionais
+
+Perfil igual ao de um usuario comum, porem o mesmo ser� listado na busca e dever� preencher alguns campos adicionais, como descri��o dos servi�os realizado por ele e informa��es extras sobre o seu trabalho, como localiza��o. 
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+A��es
+
+O usuario apos logado, visualizar� uma tela com um campo de busca.
+O modo de busca ser� por: Tipo de servi�o, melhor avaliados, localiza��o, pre�o***
+
+Ap�s selecionada uma busca, a aplica��o dever� retornar uma lista do que foi pedido, com o nome, uma leve descri��o e nota media de avalia��o. Tbm ter� um bot�o para cada item listado com op��es para o usuario como: Ver avaliza��es, Ver telefone, Chat*****
+
+O usuario ao selecionar um item ir� cair na pagina da Empresa/Profissional com todos os dados e informa��es do mesmo. Ter� um mapa j� montado um uma possivel rota do usuario at� o Empresa/Profissional selecionado. Links de e-mail, telefone direto para apps especificos* e avaliza��es da Empresa/Profissional, sendo que este, poder� ser listado por: Avalia��es recentes, Melhores notas, Piores notas. N�o podendo ser removidos ou excluidos.**** 
+
+Caso o usuario realize contato com a Empresa/Profissional, o mesmo poder� marcar como servi�o fechado e apos a realiza��o do mesmo realizar uma avaliza��o do servi�o prestado. A Empresa/Profissional tbm dever� avaliar o usuario, para que ambos possam ver com quem est�o lidando
+
+Finalizado o servi�o e avalia��o, ser� listado no perfil do usuario e da Empresa/Profissional uma quantidade de acordos feitos, no caso do usuario uma lista com o nome e link das Empresa/Profissional ser� montada em uma op��o mais escondida.
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+Legenda:
+
+* Mapa de localiza��o: Um mapa ser� montado na pagina da Empresa/Profissional com uma rota direta entre o usuario e a Empresa/Profissional, o problema � que n�o sabemos se isto pode ser feito usando a API do Google Maps e se ser� facil desenvolver.
+
+** Dados da Empresa: Poder�o entrar novas informa��es da empresa para melhor compor o perfil da mesma
+
+*** Pre�o: Um dos modos de busca poder� ser por pre�o de servi�os, o problema de inserir isto � que pode dificultar a busca, pois obrigar� a Empresa/Profissional inserir o pre�o de seu servi�o em quest�o.
+
+**** Avalia��es e Comentarios sobre um servi�o da Empresa/Profissional: Os mesmo n�o poderam ser deletados, ocultados ou criados por perfis fake. Para evitar que a empresa exclua avaliza��es � simples, o problema � evitar e controlar as avaliza��es por perfis fake, de modo que somente perfis reais sejam listados. 
+
+***** Chat: Um chat entre a Empresa/Profissional e o usuario poder� ser feito.
+
+****** Busca no app: Novos metodos de busca poder�o ser adicionados com o tempo.
+
+
+24 - 02 -2018 - Primeira Reunião
+
+Organizar a busca filtro - layout
+
+Paginação - layout
+
+
+Login e Cadastro
+
+
+Contratação e Finalização
+
+
+Proximo encontro, Inicio do projeto em Angular, 10 - 03 - 2018
+
+
