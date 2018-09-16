@@ -12,8 +12,8 @@ Repositories on Github
 Documents:
 https://github.com/Dieg0F/tips_docs.git
 
-Angular:
+Web:
 https://github.com/RafaelSanaMontevechio/Tips_Web.git
 
-Ionic:
+Mobile:
 https://github.com/Dieg0F/tips_mobile.git
