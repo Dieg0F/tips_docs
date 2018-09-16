@@ -1,0 +1,19 @@
+Emails and Passwords
+
+Google
+
+tips.software@gmail.com
+T!ps2018
+
+-------------------------------------------------------------------
+
+Repositories on Github
+
+Documents:
+https://github.com/Dieg0F/tips_docs.git
+
+Angular:
+https://github.com/RafaelSanaMontevechio/Tips_Web.git
+
+Ionic:
+https://github.com/Dieg0F/tips_mobile.git
