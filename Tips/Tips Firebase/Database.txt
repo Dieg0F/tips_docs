@@ -1,0 +1,81 @@
+Avaliation
+
+avaliationDate: "15/08/2018",
+avaliationType: "TO_ME",
+id: 1,
+userId: 1,
+professionalId: 1,
+userMessage: "Muito bom o serviço do senhor José! Não tive mais problemas com elétrica em casa mais.",
+userMessageTitle: "Excelente trabalho!",
+userName: "Claudinho",
+userRate: 4.5
+
+
+-----------------------------------------------------------------------------------------------------------
+
+User
+
+id: 1,
+authenticationId: 1,
+name: "José",
+lastName: "Carlos",
+email: "jose.carlos.eletrica@gmail.com",
+bornDate: "04/04/1968",
+userType: "professional",
+accountType: "Tips",
+country: "Brasil",
+state: "Minas Gerais",
+city: "Pouso Alegre",
+address: "Av. Pinto Cobra, 2125 - 3 - Centro, Pouso Alegre - MG",
+geoLocation: lg 123456789, lt 987654321,
+phoneNumber: "(35) 3421-3654"
+
+
+------------------------------------------------------------------------------------------------------------
+
+Service
+
+id: 1,
+name: "Elétrica"
+
+
+------------------------------------------------------------------------------------------------------------
+
+Professional
+
+id: 1,
+serviceId: 1,
+userId: 1,
+description: "Experiencia em elétrica a mais de 30 anos!",
+servicesOffer: "Instalações e manutenções em elétrica em geral."
+cpf/cnpj: 123.456.789-00,
+...
+
+
+-----------------------------------------------------------------------------------------------------------
+
+Autentication
+
+id: 1
+email: "jose.carlos.eletrica@gmail.com",
+name: "José Carlos",
+password: "D7430FT47839TG7R30TGH75E0NVT78590TG780YH5780GYRN7E0W4HRE8",
+type: "Tips"
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
