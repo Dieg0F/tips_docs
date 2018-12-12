@@ -16,7 +16,13 @@ Font Awesome - https://fontawesome.com/
 
 A logo do Tips foi adaptada, usando a cor padrão do aplicativo. 
 
-Cor - HEX:#2CC5FF
+Cores
+
+Cor Primaria Escura > #01579B
+Cor Primaria Clara > #B3E5FC
+Cor Principal > #29B6F6
+Cor Textos Claros > #FFFFFF
+Cor Textos Escuros > #212121
 
 -------------------------------------------------------------------
 
