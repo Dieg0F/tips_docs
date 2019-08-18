@@ -1,18 +1,18 @@
-1 - Aprimorar setores e area.
-2 - Ajuste no topo do perfil com foto.
-3 - Filtro para perfis de usuário e por data. Usuário só contrata, pro tem os dois.
-4 - Ajustar mensagem de avaliações e contratos vazios. Não tem CSS ou layout!
-5 - Trocar o nome da opção de desaivar conta para excuir conta.
+1 - Aprimorar setores e area. -
+2 - Ajuste no topo do perfil com foto. -
+3 - Filtro para perfis de usuário e por data. Usuário só contrata, pro tem os dois. -
+4 - Ajustar mensagem de avaliações e contratos vazios. Não tem CSS ou layout! -
+
 6 - Fazer o sobre.
-7 - Busca por nome para nomes parecidos.
-8 - Listar todos os setores e areas na busca.
-9 - Busca por estado e cidade nãoo funciona, pq não tem ninguem cadastrado.
-10 - Verificar filtro vazio, trazer os profissionais na regiao onde o usuário mora, caso não tenha, sua geo localização será usada.
-11 - Remover o usuário logado da lista de perfis.
-12 - BLOQUEAR AVALIAÇÕES FALSAS!! AVALIAÇÕES DO MESMOS USUÁRIOS SERÃO SUBSTITUIDAS PELAS MAIS RECENTES.
-13 - Novo nome para vinculo de perfis, contratos.
+7 - Busca por nome para nomes parecidos. -
+8 - Listar todos os setores e areas na busca. -
+9 - Busca por estado e cidade nãoo funciona, pq não tem ninguem cadastrado. -
+10 - Verificar filtro vazio, trazer os profissionais na regiao onde o usuário mora, caso não tenha, sua geo localização será usada. -
+11 - Remover o usuário logado da lista de perfis. -
+12 - BLOQUEAR AVALIAÇÕES FALSAS!! AVALIAÇÕES DO MESMOS USUÁRIOS SERÃO SUBSTITUIDAS PELAS MAIS RECENTES. -
+13 - Novo nome para vinculo de perfis, contratos.-
 14 - Criar um chat para melhorar a comunicação entre os caboclos. **
-15 - Gerenciar contratos. Aceitar, recusar, finalizar e remover.
-16 - Avaliar profissional e usuário. Negação do usuário, pode remover a conta.
+15 - Gerenciar contratos. Aceitar, recusar, finalizar e remover. -
+16 - Avaliar profissional e usuário. Negação do usuário, pode remover a conta.-
 17 - Verificar TODOS os campos de entrada de texto, validação e mascaras se possivel.
 
